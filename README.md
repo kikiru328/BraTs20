@@ -6,7 +6,7 @@ Brain Tumor Segmentation, 두뇌 ct 영상 내 Tumor segmentation을 진행합�
 ## BraTs20 Data Info
 - Data Format : nii.gz  
 - Image  
-    1. T1 : native
+    1. T1 : native  
     2. T1CE : post_contrast
     3. T2 : T2-weighted
     4. Flair : T2 Fluid Attenuated Inversion Recovery 
