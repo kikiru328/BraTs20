@@ -24,7 +24,7 @@ Brain Tumor Segmentation, 두뇌 ct 영상 내 Tumor segmentation을 진행합�
 
 ## Results  
 - 3D UNET  
-    ![image-1.png](./image-1.png)
+    ![image-1.png](./image-1.png) 
 
 - 2D UNET  
     ![image-1.png](./image.png)
